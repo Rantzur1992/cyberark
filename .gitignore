@@ -1,0 +1,4 @@
+# Project exclude paths
+/cyberark/.gradle/
+/cyberark/build/
+/cyberark/build/classes/java/main/
